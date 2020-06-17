@@ -1,0 +1,18 @@
+pynput: 
+	execute in terminal
+	pip3 install pynput
+
+python3: 
+	execute in terminal 
+	brew install python3
+	or
+	go to https://www.python.org/downloads/mac-osx/
+	and download the latest package
+
+pip3: 
+	execute in terminal 
+	python3 get-pip.py
+
+brew: 
+	execute in terminal 
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
